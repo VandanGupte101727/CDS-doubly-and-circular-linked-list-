@@ -186,4 +186,14 @@ int main()
     return 0;
 }
 
+~~~
+OUTPUT:-
+1).<br>
+![exp22](https://github.com/VandanGupte101727/CDS-doubly-and-circular-linked-list-/blob/main/Screenshot%202024-10-22%20at%201.31.48%20PM.png)<br>
+
+2).<br>
+![exp22](https://github.com/VandanGupte101727/CDS-doubly-and-circular-linked-list-/blob/main/Screenshot%202024-10-22%20at%201.32.34%20PM.png)<br>
+
+Conclusion:- implmented doubly and circular linked list 
+
 
